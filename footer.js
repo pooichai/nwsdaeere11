@@ -1,5 +1,17 @@
-document.write('<div id="floatads" style="width:100%;margin:auto; text-align:center;float:none;overflow:hidden; display:scroll;position:fixed; bottom:0;z-index:9999">');
-document.write('<div style="text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto">');
+// Create the first div
+var floatads = document.createElement("div");
+floatads.id = "floatads";
+floatads.style.cssText = "width:100%;margin:auto; text-align:center;float:none;overflow:hidden; display:scroll;position:fixed; bottom:0;z-index:9999";
+
+// Create the second div
+var innerDiv = document.createElement("div");
+innerDiv.style.cssText = "text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto";
+
+// Append the second div to the first div
+floatads.appendChild(innerDiv);
+
+// Append the first div to the body
+document.body.appendChild(floatads);
 
 //Paste Iklan Disini
 
