@@ -3,15 +3,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-	atOptions = {
-		'key' : '00cd8e71a598d3131381d005535ef9fc',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformat.com/00cd8e71a598d3131381d005535ef9fc/invoke.js"></scr' + 'ipt>');
-
+	<a href="https://publishers.adsterra.com/referral/mXsrfUGPJG"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/700%20x%2090%20px.png" /></a>
 
 // Batas Iklan
 
