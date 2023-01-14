@@ -3,8 +3,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-	<a href="https://publishers.adsterra.com/referral/mXsrfUGPJG"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/700%20x%2090%20px.png" /></a>
-
+	<script type='text/javascript' src='//yogacomplyfuel.com/61/ff/b4/61ffb449752bda67b98858826c4201b8.js'></script>
 // Batas Iklan
 
 document.write('</div>');
