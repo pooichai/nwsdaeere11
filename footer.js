@@ -3,7 +3,14 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-	<script type='text/javascript' src='//yogacomplyfuel.com/61/ff/b4/61ffb449752bda67b98858826c4201b8.js'></script>
+		atOptions = {
+		'key' : '00cd8e71a598d3131381d005535ef9fc',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://yogacomplyfuel.com/61/ff/b4/61ffb449752bda67b98858826c4201b8.js"></scr' + 'ipt>');
 // Batas Iklan
 
 document.write('</div>');
