@@ -10,7 +10,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://vouchanalysistonight.com/00cd8e71a598d3131381d005535ef9fc/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://acrossbrittle.com/00cd8e71a598d3131381d005535ef9fc/invoke.js"></scr' + 'ipt>');
 // Batas Iklan
 
 document.write('</div>');
